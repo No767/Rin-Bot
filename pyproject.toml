@@ -28,7 +28,7 @@ pre-commit = "^3.7.0"
 
 
 [tool.poetry.group.db.dependencies]
-tortoise-orm = "^0.20.0"
+tortoise-orm = "^0.20.1"
 asyncpg = "^0.29.0"
 
 
