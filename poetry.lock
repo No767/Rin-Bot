@@ -1502,13 +1502,13 @@ files = [
 
 [[package]]
 name = "tortoise-orm"
-version = "0.20.1"
+version = "0.21.0"
 description = "Easy async ORM for python, built with relations in mind"
 optional = false
 python-versions = "<4.0,>=3.8"
 files = [
-    {file = "tortoise_orm-0.20.1-py3-none-any.whl", hash = "sha256:bf88bc1ba7495a8827565c071efba0a89c4b5f83ff1c16be3c837a4e6b672c21"},
-    {file = "tortoise_orm-0.20.1.tar.gz", hash = "sha256:c896c90a90d1213b822ac0d607b61659ad5fcd5ff72698a8ba2d9efbad9932f3"},
+    {file = "tortoise_orm-0.21.0-py3-none-any.whl", hash = "sha256:f2252855989756193c18f145226852b74d867754c3b2e3b76e2aa3e010f4ccd0"},
+    {file = "tortoise_orm-0.21.0.tar.gz", hash = "sha256:75150a6c802c3a2ca661f7c9d1928c05543e4b77f667eef9b97f2c0ac83ecae6"},
 ]
 
 [package.dependencies]
@@ -1804,4 +1804,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10,<4.0"
-content-hash = "65ed7ec1f6751e52be3450f8bef115a962f2b5d1a52a1acfb576db898c041dee"
+content-hash = "d489921e6914c841b191e91402048a261d97dab375766558e6ed2a02e9ac603c"
