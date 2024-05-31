@@ -13,6 +13,9 @@ A Discord bot focused on obtaining data from third-party services with lighting 
 
 <div align=left>
 
+> ⚠️ **IMPORTANT**:
+> Rin is offically archived since 5/31/2024. No more new developments will be happening.
+
 # Info
 
 Rin is a Discord bot written with Pycord and Python, and is focused on fetching data from third-party services with lighting performance in mind. For example, you could look up some memes with the Reddit service, 
